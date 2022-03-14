@@ -1,0 +1,25 @@
+The One Million Impressions (OMI) face dataset is a dataest of both
+synthetic human face stimuli and corresponding attribute ratings
+from a large-scale behavioral experiment corresponding to the
+following publication:
+  
+    Peterson, J. C., Uddenberg, S., Griffiths, T., Todorov, A., & Suchow,
+    J. W. (2022). Deep models of superficial face judgments. Proceedings 
+    of the National Academy of Sciences (PNAS).
+    
+It is the joint creation of the authors listed above.
+
+The OMI face dataset (including any metadata, scripts, and
+documentation) is made available under Creative Commons BY-NC-SA 4.0 license.
+You can use, redistribute, and adapt it for non-commercial purposes, 
+as long as you (a) give appropriate credit by citing our paper, 
+(b) indicate any changes that you've made, and
+(c) distribute any derivative works under the same license.
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
+    
+The face dataset used to create the underlying models that in
+turn were used to generate our synthetic faces can be found at:
+
+https://github.com/NVlabs/ffhq-dataset
+https://github.com/NVlabs/stylegan2
