@@ -1,6 +1,6 @@
 # One Million Impressions (OMI) Dataset
 
-![alt text](https://github.com/jcpeterson/omi/blob/main/data_example.png?raw=true)
+<a href="https://github.com/jcpeterson/omi/blob/main/data_example_high_res.png?raw=true"><img src="https://github.com/jcpeterson/omi/blob/main/data_example.png?raw=true"></a>
 
 Authors: [Joshua Peterson](https://twitter.com/joshuacpeterson/), [Stefan Uddenberg](https://www.stefanuddenberg.com), [Thomas Griffiths](https://cocosci.princeton.edu/), [Alexander Todorov](https://tlab.uchicago.edu/), [Jordan Suchow](https://suchow.io/)
 
