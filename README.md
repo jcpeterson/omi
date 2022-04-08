@@ -4,7 +4,7 @@
 
 Authors: [Joshua Peterson](https://twitter.com/joshuacpeterson/), [Stefan Uddenberg](https://www.stefanuddenberg.com), [Thomas Griffiths](https://cocosci.princeton.edu/), [Alexander Todorov](https://tlab.uchicago.edu/), [Jordan Suchow](https://suchow.io/)
 
-The One Million Impressions (OMI) dataset contains over a million human judgments of over 1,000 synthetic face images along 34 attributes.
+The One Million Impressions (OMI) dataset contains over a million human judgments of over 1,000 synthetic face images along 34 attributes. You can download it here or explore it using our simple data browser tool at [OneMillionImpressions.com](https://www.onemillionimpressions.com).
 
 **Please note** that these attribute inferences, especially those of the more subjective or socially constructed attributes, have no necessary correspondence to the actual identities, attitudes, or competencies of people whom the images resemble or depict (e.g., a trustworthy person may be wrongly assumed to be untrustworthy on the basis of appearance). Rather, these inferences, and in turn our measurements, reflect systematic biases and stereotypes about attributes shared by the population of raters. If you are considering studying or applying this dataset in your own work, please be mindful that failing to make this critical distinction can result in perpetuating the biases studied here.
 
@@ -34,9 +34,11 @@ Please make sure to check the [main repository](https://github.com/jcpeterson/om
 
 ## Repository Contents
 
-Mean judgements on each of the 34 attributes for each of the 1,004 face stimuli can be found in `attribute_ratings.csv`. The corresponding synthetic face stimuli are located in the `images` folder.
+### Main Data
 
-## Validation Data
+Mean judgements on each of the 34 attributes for each of the 1,004 face stimuli can be found in `attribute_means.csv`. The corresponding synthetic face stimuli are located in the `images` folder. The original, raw approximately 1.3 million individual judgments can be found in `attribute_ratings.csv` in the `attribute_ratings.zip` archive.
+
+### Validation Data
 
 We also include data from the additional validation experiments reported in Peterson et al. (2022). The aggregated data is provided in `processed_validation_data.csv`, and the more fine-grained trial-level data is provided in `raw_validation_data.csv`, the legend for which is below:
 
@@ -52,10 +54,4 @@ The face image stimuli for these experiments are located in the `validation_imag
 
 ## Credits
 
-The face dataset used to create underlying model components that in turn were used to generate our synthetic faces can be found at:
-
-https://github.com/NVlabs/ffhq-dataset
-
-The above-mentioned model components themselves can be found at:
-
-https://github.com/NVlabs/stylegan2
+The face dataset used to create underlying model components that in turn were used to generate our synthetic faces can be found at: https://github.com/NVlabs/ffhq-dataset. The model components themselves can be found at: https://github.com/NVlabs/stylegan2
