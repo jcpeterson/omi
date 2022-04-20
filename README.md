@@ -24,6 +24,10 @@ BibTeX entry:
   publisher={National Acad Sciences}
 }
 ```
+
+## Contribute
+You can judge faces yourself and contribute to the dataset [here](https://demo.onemillionimpressions.com/v2/consent). You will be asked to first give consent to participate in our study before providing judgments. Our goal is to obtain as many possible judgments from a diverse population for over 1,000 different attributes.
+
 ## License
 
 The data is distributed under the Creative Commons BY-NC-SA 4.0 license. If you intend to use it, please see [LICENSE.txt](https://github.com/jcpeterson/omi/blob/main/LICENSE.txt) for more information.
