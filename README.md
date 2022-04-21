@@ -10,7 +10,7 @@ The One Million Impressions (OMI) dataset contains over a million human judgment
 
 When making use of the data in your research, please cite the associated publication:
 
-> Peterson, J. C., Uddenberg, S., Griffiths, T., Todorov, A., & Suchow, J. W. (2022). Deep models of superficial face judgments. *Proceedings of the National Academy of Sciences (PNAS).*
+> Peterson, J. C., Uddenberg, S., Griffiths, T. L., Todorov, A., & Suchow, J. W. (2022). Deep models of superficial face judgments. *Proceedings of the National Academy of Sciences (PNAS)*, *119*(17), e2115228119. doi:10.1073/pnas.2115228119
 
 BibTeX entry:
 
@@ -20,8 +20,13 @@ BibTeX entry:
   author={Peterson, Joshua C and Uddenberg, Stefan and Griffiths, 
   Thomas L and Todorov, Alex and Suchow, Jordan W},
   journal={Proceedings of the National Academy of Sciences},
+  volume = {119},
+  number = {17},
+  pages = {e2115228119},
   year={2022},
-  publisher={National Acad Sciences}
+  doi = {10.1073/pnas.2115228119},
+  publisher={National Acad Sciences},
+  URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2115228119},
 }
 ```
 
