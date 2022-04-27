@@ -2,7 +2,7 @@
 
 <a href="https://github.com/jcpeterson/omi/blob/main/data_example_high_res.png"><img src="https://github.com/jcpeterson/omi/blob/main/data_example.png?raw=true"></a>
 
-Authors: [Joshua Peterson](https://twitter.com/joshuacpeterson/), [Stefan Uddenberg](https://www.stefanuddenberg.com), [Thomas Griffiths](https://cocosci.princeton.edu/), [Alexander Todorov](https://tlab.uchicago.edu/), [Jordan Suchow](https://suchow.io/)
+Authors: [Joshua Peterson](https://cocosci.princeton.edu/jpeterson/), [Stefan Uddenberg](https://www.stefanuddenberg.com), [Thomas Griffiths](https://cocosci.princeton.edu/), [Alexander Todorov](https://tlab.uchicago.edu/), [Jordan Suchow](https://suchow.io/)
 
 The One Million Impressions (OMI) dataset contains over a million human judgments of over 1,000 synthetic face images along 34 attributes. You can download it here or explore it using our simple data browser tool at [OneMillionImpressions.com](https://www.onemillionimpressions.com).
 
