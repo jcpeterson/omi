@@ -4,7 +4,7 @@
 
 Authors: [Joshua Peterson](https://cocosci.princeton.edu/jpeterson/), [Stefan Uddenberg](https://www.stefanuddenberg.com), [Thomas Griffiths](https://cocosci.princeton.edu/), [Alexander Todorov](https://tlab.uchicago.edu/), [Jordan Suchow](https://suchow.io/)
 
-The One Million Impressions (OMI) dataset contains over a million human judgments of over 1,000 synthetic face images along 34 attributes. You can download it here or explore it using our simple data browser tool at [OneMillionImpressions.com](https://www.onemillionimpressions.com).
+The One Million Impressions (OMI) dataset contains over a million human judgments of over 1,000 synthetic face images along 34 attributes.
 
 **Please note** that these attribute inferences, especially those of the more subjective or socially constructed attributes, have no necessary correspondence to the actual identities, attitudes, or competencies of people whom the images resemble or depict (e.g., a trustworthy person may be wrongly assumed to be untrustworthy on the basis of appearance). Rather, these inferences, and in turn our measurements, reflect systematic biases and stereotypes about attributes shared by the population of raters. If you are considering studying or applying this dataset in your own work, please be mindful that failing to make this critical distinction can result in perpetuating the biases studied here.
 
@@ -29,9 +29,6 @@ BibTeX entry:
   URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2115228119},
 }
 ```
-
-## Contribute
-You can judge faces yourself and contribute to the dataset [here](https://demo.onemillionimpressions.com/v2/consent). You will be asked to first give consent to participate in our study before providing judgments. Our goal is to obtain as many possible judgments from a diverse population for over 1,000 different attributes.
 
 ## License
 
